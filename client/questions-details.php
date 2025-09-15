@@ -1,6 +1,6 @@
 <div class="container">
-  <h1 class="heading">Question</h1>
-  <div class="row">
+  <h1 class="heading head">Question</h1>
+  <div class="row " style="color:rgb(239, 114, 255)">
   <div class="col-8">
    <?php 
 
@@ -16,7 +16,7 @@
   <form action="./server/requests.php" method="post">
     <input type="hidden" name="question_id" value="<?php echo $qid?>">
   <textarea name="answer" class="form-control margin-bottom-15" placeholder="Your answer"></textarea>
-  <button class="btn btn-primary">Write your answer</button>
+  <button class="btn btn-secondary">Write your answer</button>
   </form>
   </div>
   <div class="col-4">

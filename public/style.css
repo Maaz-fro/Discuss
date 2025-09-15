@@ -1,10 +1,13 @@
+body{
+  background-color: rgb(38, 19, 39);
+}
 a{
-  color: skyblue !important;
+  color: rgb(94, 19, 56) !important;
 }
 
 .heading{
   text-align: center;
-  color: yellow;
+  color: rgb(239, 114, 255);
 }
 
 .margin-bottom-15{
@@ -12,7 +15,7 @@ a{
 }
 
  .question-list{
-  border: 1px solid #ddd;
+  border: 1px solid  rgb(239, 114, 255);
   padding: 15px;
   margin: 10px;
  
@@ -21,7 +24,7 @@ a{
 .question-list a,.question-title{
   font-size: 18px;
   text-decoration: none;
-  color: #1c7194 !important;
+  color:  rgb(239, 114, 255) !important;
 }
 .question-list h4{
   margin: 0;
@@ -39,3 +42,21 @@ a{
   justify-content: space-between;
 }
 
+.us{
+  color: blueviolet;
+  font-weight: 500;
+  
+}
+
+::placeholder {
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+.us-1{
+  margin-top: 30px;
+}
+
+.head{
+  margin-top:30px;
+}

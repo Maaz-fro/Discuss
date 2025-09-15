@@ -1,5 +1,5 @@
 <div>
-  <h1 class="heading">Categories</h1>
+  <h1 class="heading head">Categories</h1>
   <?php
   include('./common/db.php');
   $query = "select * from category";

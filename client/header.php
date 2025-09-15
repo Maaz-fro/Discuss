@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
-    <a class="navbar-brand" href="./"><img style="width: 60px;" src="./public/suz2.png" alt="logo"></a>
+    <a class="navbar-brand" href="./"><img style="width: 70px;" src="./public/discussfavicon.png" alt="logo"></a>
     
 
     <div class="collapse navbar-collapse" id="navbarNav">
@@ -69,7 +69,7 @@
     </div>
       <form class="d-flex" action="">
         <input class="form-control me-2" name="search" type="search" placeholder="Search questions"/>
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button class="btn btn-outline-secondary" type="submit">Search</button>
       </form>
   </div>
 </nav>

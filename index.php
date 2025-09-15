@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link rel="shortcut icon" href="public/suz2.png" type="image/x-icon">
+  <link rel="shortcut icon" href="public/discussfavicon.png" type="image/x-icon">
 
 <head>
   <title>Discuss Project</title>

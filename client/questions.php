@@ -9,7 +9,7 @@
 
     <div class="row">
       <div class="col-8">
-        <h1 class="heading">Question</h1>
+        <h1 class="heading head">Question</h1>
 
         <?php
         
@@ -49,7 +49,7 @@
         }
         ?>
       </div>
-      <div class="col-4">
+      <div class="col-4" style="color: red;">
         <?php
         include('categorylist.php');
         ?>
